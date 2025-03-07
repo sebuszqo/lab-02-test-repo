@@ -1,1 +1,2 @@
+To jest wiadomosc z brancha na tym samym lab czyli numer 2 z ZTP.
 To jest wiadomosc na labolatorium numer 2 z przedmiotu ZTP.
